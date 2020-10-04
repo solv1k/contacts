@@ -1,0 +1,16 @@
+{
+    "name": "phonebook/contacts",
+    "description": "Phone Book - Contacts",
+    "type": "project",
+    "authors": [
+        {
+            "name": "solv1k",
+            "email": "solvik74@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "4.5.2",
+        "fortawesome/font-awesome": "^5.15",
+        "components/jquery": "^3.5"
+    }
+}
